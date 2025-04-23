@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "System tray icon.",
-  "pub_date": "2025-04-23T23:45:00.00+03:00",
+  "version": "1.0.4",
+  "notes": "Minimize to taskbar on close.",
+  "pub_date": "2025-04-24T00:08:00.00+03:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFRIamxDc1o2ek1kMUFVMjFNUzQ2T1o0ZmwvTWVIWmVMQUF1NkVKb0w3Q1pZdkFSRDBhaHBQTjYrdnRjSytkK01HY1grMkRtM2VTVGt6ZjdXOWNlaHk2bWlXUThoY2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NDQxMDk5CWZpbGU6UmFwaXggQ29ubmVjdF8xLjAuM194NjRfZW4tVVMubXNpCm8vVDd6ZFJmY3lUK3BtLzR6TVpiV1lPNjJHZmt2NXVvQjhuQTVmSE5VZDlPeUNNOHhEQ084WkNEbXRkcThKUVlHRmxuQ0U4OHk0aHJGdzdGNGg1dUJnPT0K",
-      "url": "https://app-updates.rapixconnect.com/tauri/windows/Rapix Connect_1.0.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFRIamxDc1o2ekl5Y21XYVNMMjZuNTJMQWZTZVY5dU9aR2g5MUhIRGo1aWkyNE1QclJWTEM5dlc5S0FMc0RFZW5rNFFMTWVhQ3VyT3RJN1lablZxUXF2V1NBak5LTGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NDQyNDcwCWZpbGU6UmFwaXggQ29ubmVjdF8xLjAuNF94NjRfZW4tVVMubXNpCnlNUkpDY3o2RVdIcVJXUmpRdmNhU05CU2d1UitQWHdSYUhQWXZxZXU2WE0rNjFtMDJLZHRLQi9uZzczWUljY0JEcGlYWk1PNThONjk1SHNYUG5UbkJRPT0K",
+      "url": "https://app-updates.rapixconnect.com/tauri/windows/Rapix Connect_1.0.4_x64_en-US.msi"
     }
   }
 }
