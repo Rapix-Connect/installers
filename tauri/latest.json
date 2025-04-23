@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Fixed icon overlays.",
-  "pub_date": "2025-04-18T15:18:00.00+03:00",
+  "version": "1.0.3",
+  "notes": "System tray icon.",
+  "pub_date": "2025-04-23T23:45:00.00+03:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFRIamxDc1o2ekxsbStUWHBTOXlpYjF4MTg1Zk1IV3lNR1YwLzRWNCtTT2hrUzZKcFljZEVhWmphNFNzOGRQdVRQZHMyR1pVdzRKN1RHcVNMbmwrM2xUYUc5TFFRcUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0OTc4NjIzCWZpbGU6UmFwaXggQ29ubmVjdF8xLjAuMl94NjRfZW4tVVMubXNpClh2cXZDa3RobzVMbGw3aVp0eVZxUTdiZzF6SVFYRTYycUJtOWFMcFYycTFBbnQyRXdBV2NmbmM5U0dhN2RUVXQ2ZTRyT1FKN09TeExqSXZpY0RwSENnPT0K",
-      "url": "https://app-updates.rapixconnect.com/tauri/windows/Rapix Connect_1.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTFRIamxDc1o2ek1kMUFVMjFNUzQ2T1o0ZmwvTWVIWmVMQUF1NkVKb0w3Q1pZdkFSRDBhaHBQTjYrdnRjSytkK01HY1grMkRtM2VTVGt6ZjdXOWNlaHk2bWlXUThoY2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NDQxMDk5CWZpbGU6UmFwaXggQ29ubmVjdF8xLjAuM194NjRfZW4tVVMubXNpCm8vVDd6ZFJmY3lUK3BtLzR6TVpiV1lPNjJHZmt2NXVvQjhuQTVmSE5VZDlPeUNNOHhEQ084WkNEbXRkcThKUVlHRmxuQ0U4OHk0aHJGdzdGNGg1dUJnPT0K",
+      "url": "https://app-updates.rapixconnect.com/tauri/windows/Rapix Connect_1.0.3_x64_en-US.msi"
     }
   }
 }
